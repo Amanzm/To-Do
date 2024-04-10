@@ -1,8 +1,18 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Azmy - Todo Application
 
-Currently, two official plugins are available:
+Azmy is a simple yet powerful todo application built with React. It helps you manage your tasks efficiently, ensuring you stay organized and productive.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Add new tasks with descriptions and due dates.
+- Mark tasks as complete.
+- Filter tasks based on their completion status.
+- Edit and delete tasks.
+- Responsive design for seamless usage across devices.
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces.
+- CSS: Cascading Style Sheets for styling the application.
+- Local Storage: Utilized for storing tasks locally in the browser.
